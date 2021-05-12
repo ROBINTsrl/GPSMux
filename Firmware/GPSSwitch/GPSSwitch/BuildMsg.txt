@@ -1,0 +1,80 @@
+Starting MAKE...
+creating project.mk 
+
+lib/led_fix.asm
+
+lib/psocconfig.asm
+
+lib/psocconfigtbl.asm
+
+lib/rx8_1.asm
+
+lib/rx8_1int.asm
+
+lib/rx8_1plus.asm
+
+lib/rx8_2.asm
+
+lib/rx8_2int.asm
+
+lib/rx8_2plus.asm
+
+lib/tx8.asm
+
+lib/tx8int.asm
+
+lib/tx8plus.asm
+
+./boot.asm
+
+Linking..
+
+symbol TX8_Stop is unused
+
+symbol TX8_PutSHexInt is unused
+
+symbol TX8_DisableInt is unused
+
+symbol RX8_1_cReadChar is unused
+
+symbol RX8_2_cReadChar is unused
+
+symbol RX8_1_iReadChar is unused
+
+symbol RX8_2_iReadChar is unused
+
+symbol TX8_Write is unused
+
+symbol _LED_FIX_Invert is unused
+
+symbol RX8_1_Stop is unused
+
+symbol RX8_2_Stop is unused
+
+symbol TX8_CWrite is unused
+
+symbol TX8_PutCRLF is unused
+
+symbol RX8_1_DisableInt is unused
+
+symbol RX8_2_DisableInt is unused
+
+symbol TX8_SetTxIntMode is unused
+
+symbol _LED_FIX_GetState is unused
+
+symbol TX8_bReadTxStatus is unused
+
+233 bytes unused code deleted
+
+1459 bytes before Code Compression, 1158 after. 4% reduction.
+
+  ROM 10% full. 1591 out of 16384 bytes used (does not include absolute areas).
+
+  RAM 37% full. 94 bytes used (does not include stack usage).
+
+Built with ICCM8C STD V7.05.00
+
+ 
+GPSSwitch - 0 error(s) 0 warning(s) 15:29:20
+

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name GPSMux)(type KiCad)(uri ${KIPRJMOD}/GPSMux.pretty)(options "")(descr ""))
+)

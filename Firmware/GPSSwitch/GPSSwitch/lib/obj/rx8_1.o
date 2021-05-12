@@ -1,0 +1,121 @@
+XH
+H 2 areas 28 global symbols
+M rx8_1.asm
+A text size 0 flags 0
+dbfile lib/rx8_1.asm
+dbfunc 0 ? 0 I
+dbfile RX8_1.inc
+dbfunc 0 ? 0 I
+dbfile C:/PROGRA~2/Cypress/PSOCDE~1/5.4/Common/CYPRES~1/tools/include/CY8C27~1/m8c.inc
+dbfunc 0 ? 0 I
+dbfile ./lib/RX8_1.inc
+dbfunc 0 ? 0 I
+dbfile lib/rx8_1.asm
+dbfunc 0 ? 0 I
+dbfile memory.inc
+dbfunc 0 ? 0 I
+dbfile lib/rx8_1.asm
+dbfunc 0 ? 0 I
+dbfile C:/PROGRA~2/Cypress/PSOCDE~1/5.4/Common/CYPRES~1/tools/include/CY8C27~1/m8c.inc
+dbfunc 0 ? 0 I
+A UserModules size 4C flags 0
+dbfile lib/rx8_1.asm
+dbfunc 0 ? 0 I
+dbline 2 0
+dbline 79 3
+dbline 2 4
+dbline 96 7
+dbline B2 8
+dbline B3 A
+dbline B5 C
+dbline CF D
+dbline D1 10
+dbline EF 11
+dbline F1 13
+dbline 10F 14
+dbline 111 16
+dbline 136 17
+dbline 137 1A
+dbline 139 1C
+dbline 13B 1E
+dbline 159 1F
+dbline 15A 21
+dbline 15B 22
+dbline 15C 24
+dbline 15D 26
+dbline 15E 27
+dbline 161 29
+dbline 162 2B
+dbline 164 2C
+dbline 165 2D
+dbline 166 2F
+dbline 167 31
+dbline 169 32
+dbline 16C 33
+dbline 170 35
+dbline 195 36
+dbline 197 38
+dbline 198 3A
+dbline 199 3B
+dbline 19A 3D
+dbline 19B 3F
+dbline 19C 40
+dbline 19D 42
+dbline 19E 43
+dbline 1A1 45
+dbline 1A2 46
+dbline 1A3 48
+dbline 1A4 49
+dbline 1A9 4B
+S _RX8_1_DisableInt Def0004
+S $sb$RX8_1_bReadRxData Def0011
+S $se$RX8_1_bReadRxData Def0014
+S $sb$RX8_1_bReadRxStatus Def0014
+S $se$RX8_1_bReadRxStatus Def0017
+S RX8_1_cReadChar Def001F
+S _RX8_1_cGetChar Def0017
+S RX8_1_iReadChar Def0036
+S _RX8_1_Start Def0008
+S RX8_1_EnableInt Def0000
+S $sb$RX8_1_cReadChar Def001F
+S $se$RX8_1_cReadChar Def0036
+S $sb$RX8_1_iReadChar Def0036
+S _bRX8_1_ReadRxData Def0011
+S _RX8_1_bReadRxData Def0011
+S $se$RX8_1_iReadChar Def004C
+S _bRX8_1_ReadRxStatus Def0014
+S _RX8_1_bReadRxStatus Def0014
+S $sb$RX8_1_EnableInt Def0000
+S $se$RX8_1_EnableInt Def0004
+S RX8_1_Stop Def000D
+S _RX8_1_cReadChar Def001F
+S _RX8_1_iReadChar Def0036
+S $sb$RX8_1_Stop Def000D
+S $se$RX8_1_Stop Def0011
+S _RX8_1_EnableInt Def0000
+S RX8_1_DisableInt Def0004
+S $sb$RX8_1_DisableInt Def0004
+S $se$RX8_1_DisableInt Def0008
+S RX8_1_cGetChar Def0017
+S _RX8_1_Stop Def000D
+S RX8_1_Start Def0008
+S $sb$RX8_1_cGetChar Def0017
+S $se$RX8_1_cGetChar Def001F
+S bRX8_1_ReadRxData Def0011
+S RX8_1_bReadRxData Def0011
+S $sb$RX8_1_Start Def0008
+S bRX8_1_ReadRxStatus Def0014
+S RX8_1_bReadRxStatus Def0014
+S $se$RX8_1_Start Def000D
+T 00 00 43 E1 80 7F 41 E1 7F 7F 29 01 60 3F 7F 41
+R 00 00 00 01
+T 00 0E 3F FE 7F 5D 3E 7F 5D 3F 7F 49 3F 08 AF FC
+R 00 00 00 01
+T 00 1C 5D 3E 7F 5D 3F 08 21 08 B0 04 18 80 0B 5D
+R 00 00 00 01
+T 00 2A 3E 4B 18 21 A0 B0 03 4B 7F 50 00 7F 5D 3F
+R 00 00 00 01
+T 00 38 21 E8 08 21 08 B0 07 18 29 01 4B 80 07 18
+R 00 00 00 01
+T 00 46 21 E0 4B 5D 3E 7F
+R 00 00 00 01
