@@ -1,5 +1,5 @@
-Drill report for C:\Users\m.santucci\Desktop\GPSMux\GPSMux.kicad_pcb
-Created on 12/05/2021 15:35:29
+Drill report for C:\Users\weird\source\repos\GPSMux\GPSMux.kicad_pcb
+Created on 12/05/2021 21:32:59
 
 Copper Layer Stackup:
     =============================================================
@@ -10,9 +10,9 @@ Copper Layer Stackup:
 Drill file 'GPSMux-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0,40mm  0,016"  (8 holes)
-    T2  0,80mm  0,031"  (8 holes)
-    T3  2,20mm  0,087"  (4 holes)
+    T1  0.40mm  0.016"  (8 holes)
+    T2  0.80mm  0.031"  (8 holes)
+    T3  2.20mm  0.087"  (4 holes)
 
     Total plated holes count 20
 
