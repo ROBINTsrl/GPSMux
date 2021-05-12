@@ -2,41 +2,41 @@
 ./obj/boot.o : \
    C:/PROGRA~2/Cypress/PSOCDE~1/5.4/Common/CYPRES~1/tools/include/CY8C27~1/m8c.inc\
    C:/PROGRA~2/Cypress/PSOCDE~1/5.4/Common/CYPRES~1/tools/include/CY8C27~1/m8ssc.inc\
-   C:\Users\MAB0B~1.SAN\Desktop\GPSMux\GPSSWI~1\GPSSWI~1\lib\GLOBAL~1.INC\
-   C:\Users\MAB0B~1.SAN\Desktop\GPSMux\GPSSWI~1\GPSSWI~1\memory.inc
+   C:\Users\MAB0B~1.SAN\source\repos\GPSMux\Firmware\GPSSWI~1\GPSSWI~1\lib\GLOBAL~1.INC\
+   C:\Users\MAB0B~1.SAN\source\repos\GPSMux\Firmware\GPSSWI~1\GPSSWI~1\memory.inc
 ./obj/main.o :  ./lib/LED_FIX.h ./lib/PSoCAPI.h ./lib/PSOCGP~1.H\
    ./lib/RX8_1.h ./lib/RX8_2.h ./lib/TX8.h\
    C:/PROGRA~2/Cypress/PSOCDE~1/5.4/Common/CYPRES~1/tools/include/CY8C27~1/m8c.h\
-   C:\Users\MAB0B~1.SAN\Desktop\GPSMux\GPSSWI~1\GPSSWI~1\queue.h
+   C:\Users\MAB0B~1.SAN\source\repos\GPSMux\Firmware\GPSSWI~1\GPSSWI~1\queue.h
 ./obj/queue.o : \
    C:/PROGRA~2/Cypress/PSOCDE~1/5.4/Common/CYPRES~1/tools/include/CY8C27~1/m8c.h\
-   C:\Users\MAB0B~1.SAN\Desktop\GPSMux\GPSSWI~1\GPSSWI~1\queue.h
+   C:\Users\MAB0B~1.SAN\source\repos\GPSMux\Firmware\GPSSWI~1\GPSSWI~1\queue.h
 ./lib/obj/led_fix.o :  ./lib/LED_FIX.inc\
    C:/PROGRA~2/Cypress/PSOCDE~1/5.4/Common/CYPRES~1/tools/include/CY8C27~1/m8c.inc\
-   C:\Users\MAB0B~1.SAN\Desktop\GPSMux\GPSSWI~1\GPSSWI~1\memory.inc
+   C:\Users\MAB0B~1.SAN\source\repos\GPSMux\Firmware\GPSSWI~1\GPSSWI~1\memory.inc
 ./lib/obj/psocconfig.o :  ./lib/GLOBAL~1.INC\
    C:/PROGRA~2/Cypress/PSOCDE~1/5.4/Common/CYPRES~1/tools/include/CY8C27~1/m8c.inc\
-   C:\Users\MAB0B~1.SAN\Desktop\GPSMux\GPSSWI~1\GPSSWI~1\memory.inc
+   C:\Users\MAB0B~1.SAN\source\repos\GPSMux\Firmware\GPSSWI~1\GPSSWI~1\memory.inc
 ./lib/obj/psocconfigtbl.o : \
    C:/PROGRA~2/Cypress/PSOCDE~1/5.4/Common/CYPRES~1/tools/include/CY8C27~1/m8c.inc
 ./lib/obj/rx8_1.o :  ./lib/RX8_1.inc\
    C:/PROGRA~2/Cypress/PSOCDE~1/5.4/Common/CYPRES~1/tools/include/CY8C27~1/m8c.inc\
-   C:\Users\MAB0B~1.SAN\Desktop\GPSMux\GPSSWI~1\GPSSWI~1\memory.inc
+   C:\Users\MAB0B~1.SAN\source\repos\GPSMux\Firmware\GPSSWI~1\GPSSWI~1\memory.inc
 ./lib/obj/rx8_1int.o :  ./lib/RX8_1.inc\
    C:/PROGRA~2/Cypress/PSOCDE~1/5.4/Common/CYPRES~1/tools/include/CY8C27~1/m8c.inc\
-   C:\Users\MAB0B~1.SAN\Desktop\GPSMux\GPSSWI~1\GPSSWI~1\memory.inc
+   C:\Users\MAB0B~1.SAN\source\repos\GPSMux\Firmware\GPSSWI~1\GPSSWI~1\memory.inc
 ./lib/obj/rx8_1plus.o : 
 ./lib/obj/rx8_2.o :  ./lib/RX8_2.inc\
    C:/PROGRA~2/Cypress/PSOCDE~1/5.4/Common/CYPRES~1/tools/include/CY8C27~1/m8c.inc\
-   C:\Users\MAB0B~1.SAN\Desktop\GPSMux\GPSSWI~1\GPSSWI~1\memory.inc
+   C:\Users\MAB0B~1.SAN\source\repos\GPSMux\Firmware\GPSSWI~1\GPSSWI~1\memory.inc
 ./lib/obj/rx8_2int.o :  ./lib/RX8_2.inc\
    C:/PROGRA~2/Cypress/PSOCDE~1/5.4/Common/CYPRES~1/tools/include/CY8C27~1/m8c.inc\
-   C:\Users\MAB0B~1.SAN\Desktop\GPSMux\GPSSWI~1\GPSSWI~1\memory.inc
+   C:\Users\MAB0B~1.SAN\source\repos\GPSMux\Firmware\GPSSWI~1\GPSSWI~1\memory.inc
 ./lib/obj/rx8_2plus.o : 
 ./lib/obj/tx8.o :  ./lib/TX8.inc\
    C:/PROGRA~2/Cypress/PSOCDE~1/5.4/Common/CYPRES~1/tools/include/CY8C27~1/m8c.inc\
-   C:\Users\MAB0B~1.SAN\Desktop\GPSMux\GPSSWI~1\GPSSWI~1\memory.inc
+   C:\Users\MAB0B~1.SAN\source\repos\GPSMux\Firmware\GPSSWI~1\GPSSWI~1\memory.inc
 ./lib/obj/tx8int.o :  ./lib/TX8.inc\
    C:/PROGRA~2/Cypress/PSOCDE~1/5.4/Common/CYPRES~1/tools/include/CY8C27~1/m8c.inc\
-   C:\Users\MAB0B~1.SAN\Desktop\GPSMux\GPSSWI~1\GPSSWI~1\memory.inc
+   C:\Users\MAB0B~1.SAN\source\repos\GPSMux\Firmware\GPSSWI~1\GPSSWI~1\memory.inc
 ./lib/obj/tx8plus.o : 
