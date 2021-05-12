@@ -30,3 +30,10 @@ made-with-kicad
 
 # Spreadsheet files (KiCost BOM)
 *.xlsx
+
+#Firmware
+*.hex
+Firmware\GPSSwitch\GPSSwitch\backup
+Firmware\GPSSwitch\GPSSwitch\lib\obj
+Firmware\GPSSwitch\GPSSwitch\obj
+Firmware\GPSSwitch\GPSSwitch\output
