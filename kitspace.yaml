@@ -1,0 +1,4 @@
+summary: Switch between two serial GPS feed based on fix status.
+gerbers: Production
+color: purple
+bom: 1-click-bom.csv
