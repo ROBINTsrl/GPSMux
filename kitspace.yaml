@@ -1,4 +1,4 @@
-summary: Switch between two serial GPS feed based on fix status.
+summary: Switch between two serial NMEA GPS feed based on fix status.
 gerbers: PCB/Production
 color: purple
 bom: PCB/1-click-bom.csv
