@@ -4,7 +4,7 @@ This board and related firmware can be used to switch between two serial GPS fee
 The resulting feed is transmitted over a third serial line with RS232 levels.
 The board is designed around [Cypress](https://www.cypress.com/) PSoC CY8C27143.
 
-PCB has been desinged with [KiCAD](https://www.kicad.org/).
+PCB has been designed with [KiCAD](https://www.kicad.org/).
 
 ## Firmware
 
