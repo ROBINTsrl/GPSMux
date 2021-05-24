@@ -9,3 +9,11 @@ PCB has been designed with [KiCAD](https://www.kicad.org/).
 ## Firmware
 
 The project firmware requires Cypress [PSoC Designer 5.4](https://www.cypress.com/documentation/software-and-drivers/psoc-designer-54-sp1) to be compiled.
+
+#
+
+Live long and prosper!
+
+That's all folks.
+
+By[t]e{s} Weirdgyn
