@@ -38,3 +38,4 @@ Firmware\GPSSwitch\GPSSwitch\lib\obj
 Firmware\GPSSwitch\GPSSwitch\obj
 Firmware\GPSSwitch\GPSSwitch\output
 Firmware\GPSSwitch\GPSSwitch\std\obj
+*.pep
